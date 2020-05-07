@@ -1,0 +1,2 @@
+FROM api:release
+ADD postgres_password /ddev/secrets/postgres_password
